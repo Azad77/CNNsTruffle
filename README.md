@@ -16,12 +16,12 @@ Instructions:
 
 Clone this repository:
 Bash
-git clone https://github.com/your_username/truffle_crack_detection.git
+git clone https://github.com/Azad77/CNNsTruffle.git
 Use code with caution.
 content_copy
 Navigate to the project directory:
 Bash
-cd truffle_crack_detection
+cd CNNsTruffle
 Use code with caution.
 content_copy
 Install required libraries:
